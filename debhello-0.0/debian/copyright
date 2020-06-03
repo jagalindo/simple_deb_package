@@ -7,8 +7,8 @@ Source: <url://example.com>
 Files:     LICENCE
            Makefile
            hello.c
-Copyright: __NO_COPYRIGHT_NOR_LICENSE__
-License:   __NO_COPYRIGHT_NOR_LICENSE__
+Copyright: LSI copyleft
+License:   There is no copyright rather than a BSD 3 for a hello world.
 
 #----------------------------------------------------------------------------
 # Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following

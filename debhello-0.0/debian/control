@@ -1,10 +1,10 @@
 Source: debhello
-Section: unknown
+Section: devel
 Priority: extra
 Maintainer:  <jagalindo>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.8
-Homepage: <insert the upstream URL, if relevant>
+Homepage: http://www.lsi.us.es/~jagalindo
 #Vcs-Git: git://anonscm.debian.org/collab-maint/debhello.git
 #Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/debhello.git
 
